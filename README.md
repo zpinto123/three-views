@@ -9,7 +9,7 @@ Three views allows you to view, edit and create book lists
 
 ## Environment variables
 
-create .env.environment and .env.production with the contents of .env.example
+Create .env.environment and .env.production with the contents of .env.example
 
 ## Install
 
