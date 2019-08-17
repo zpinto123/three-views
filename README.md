@@ -7,6 +7,10 @@ Three views allows you to view, edit and create book lists
 - node >= 6.0.0
 - npm >= 3.0.0
 
+## Environment variables
+
+create .env.environment and .env.production with the contents of .env.example
+
 ## Install
 
 ```sh
