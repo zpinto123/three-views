@@ -1,0 +1,10 @@
+{
+  "bookId": "Book ID",
+  "title": "Title",
+  "author": "Author",
+  "price": "Price",
+  "edit": "Edit",
+  "cancel": "Cancel",
+  "save": "Save",
+  "create": "Create"
+}

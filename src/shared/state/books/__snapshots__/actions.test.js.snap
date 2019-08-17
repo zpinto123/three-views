@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`action creators Saves books to redux if getBooks is successful 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "books": Array [
+        Object {
+          "author": "john",
+          "bookId": 1,
+          "price": 5,
+          "title": "john book",
+        },
+        Object {
+          "author": "joana",
+          "bookId": 2,
+          "price": 7,
+          "title": "joana book",
+        },
+      ],
+    },
+    "type": "SET_BOOKS",
+  },
+]
+`;

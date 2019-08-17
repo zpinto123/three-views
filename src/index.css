@@ -1,0 +1,34 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  color: #404040;
+  font-weight: 400;
+  background-color: #fefefe;
+  font-family: Khula, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  text-decoration: none;
+  color: #2f89a0;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+  color: #2f89a0;
+}
+
+::selection {
+  color: #fff;
+  background: #333;
+  text-shadow: none;
+}
+
+::-moz-selection {
+  color: #fff;
+  background: #333;
+  text-shadow: none;
+}

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> Show Input correctly 1`] = `
+.c0 {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+<div
+  className="MuiFormControl-root MuiTextField-root c0 MuiFormControl-marginNormal"
+>
+  <div
+    className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+    onClick={[Function]}
+  >
+    <input
+      aria-invalid={false}
+      className="MuiInputBase-input MuiInput-input"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      required={false}
+      type="text"
+      value="Hello, i'm an input!"
+    />
+  </div>
+</div>
+`;
