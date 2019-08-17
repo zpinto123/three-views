@@ -6,6 +6,7 @@ Three views allows you to view, edit and create book lists
 
 - node >= 6.0.0
 - npm >= 3.0.0
+- yarn
 
 ## Environment variables
 
